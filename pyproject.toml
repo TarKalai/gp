@@ -1,7 +1,7 @@
 [project]
 name = "gp"
 version = "0.1.0"
-description = "A good practice repo for futur development"
+description = "A good practice repo for future development"
 readme = "README.md"
 authors = [
     { name = "Sébastien De Vos", email = "sebastien.devos@euranova.eu" }
